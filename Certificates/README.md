@@ -7,5 +7,5 @@ Includes:
 - Training in cybersecurity and IT-related topics
 
 Focus:
-- подтверждение теоретических знаний
-- непрерывное обучение и развитие навыков
+- confirmation of theoretical knowledge
+- continuous learning and skill development
